@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Про это"
+title: "О..."
 permalink: /about/
 ---
 
