@@ -26,9 +26,9 @@ tag_dir: /tags/
 # ==========================================
 # Эти данные подхватываются плагином jekyll-seo-tag для генерации OpenGraph-тегов
 author:
-  name: "Ваше Имя / Никнейм"
-  twitter: "your_twitter"   # если есть
-  github: "your-username"
+  name: "actxact"
+  # twitter: ""            # если появится
+  github: "actxact"
 
 # ==========================================
 #  СБОРКА, ПЛАГИНЫ И ОПТИМИЗАЦИЯ
